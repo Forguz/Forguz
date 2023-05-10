@@ -11,13 +11,13 @@
   <a href="mailto:nicolasdellazzeri@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-dellazzeri/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="" target="_blank">
+  <a href="https://dev.to/forguz" target="_blank">
     <img alt="Dev.to" src="https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>
-  <a href="" target="_blank">
+  <a href="https://forguz.github.io/personal-portfolio/" target="_blank">
     <img alt="Porfolio" src="https://img.shields.io/badge/-portfolio-A91211?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </div>
