@@ -24,7 +24,7 @@
 
 <h2>Tools I use to code:</h2>
 <div>
-  <p>The following images aren't links.</p>
+  <p>The following images aren't links to nothing but the images itself.</p>
   <img alt="Terminal" src="https://img.shields.io/badge/-TERMINAL-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white">
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -51,5 +51,5 @@
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forguz&layout=donut&theme=vision-friendly-dark"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Forguz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://streak-stats.demolab.com/?user=Forguz&theme=vision-friendly-dark"/>
+  <img height="200em" src="https://streak-stats.demolab.com/?user=Forguz&theme=vision-friendly-dark&count_private=true"/>
 </div>
