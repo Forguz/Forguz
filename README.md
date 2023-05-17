@@ -22,7 +22,7 @@
   </a>
 </div>
 
-<h2>Tools I use to code:</h2>
+<h2>Tools that I use:</h2>
 <div>
   <p>The following images aren't links to nothing but the images itself.</p>
   <img alt="Terminal" src="https://img.shields.io/badge/-TERMINAL-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white">
@@ -39,12 +39,18 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=Insomnia&logoColor=white">
   <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=white">
+  <img alt="ESLint" src="https://img.shields.io/badge/-eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
+  <img alt="Prettier" src="https://img.shields.io/badge/-prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
+  <img alt="Testing Library" src="https://img.shields.io/badge/-testing_library-E33332?style=for-the-badge&logo=testing%20library&logoColor=white">
+  <img alt="Mocha" src="https://img.shields.io/badge/-mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white">
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
   <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="AdobeXD" src="https://img.shields.io/badge/-adobe%20xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white">
 </div>
 
 <h2>Github Stats</h2>
