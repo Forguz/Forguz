@@ -56,7 +56,7 @@
 
 <h2>Github Stats</h2>
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Forguz&layout=donut&theme=vision-friendly-dark"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Forguz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Forguz&layout=donut&theme=vision-friendly-dark"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Forguz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://streak-stats.demolab.com/?user=Forguz&theme=vision-friendly-dark"/>
 </div>
